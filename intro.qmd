@@ -1,5 +1,11 @@
-# Introduction
+# Introduction {.unnumbered}
 
-This is a book created from markdown and executable code.
+This book aims to help you get started contributing to Open Source. Since Git is an integral part of contributing to Open source, the book is divided into two sections.
 
-See @knuth84 for additional discussion of literate programming.
+The first section is all about Git; what is Git, how do you use it, and what are the most common commands that you will use with Git. 
+
+If you already know how to use Git and use it regularly, feel free to skip this section. Or don't; maybe you will learn some new things about how awesome Git is. This section will also contain tips, tricks and curiosities, which should help you better understand this version control tool.
+
+In the second section, the book will be all about Open Source. What is Open Source? How do you get started? How to find a project to contribute, the workflow of contributing to a project and much more.
+
+By the end of the book, you should have an excellent grasp of Git and be ready to contribute to your first Open Source project. Also, since there are many things to remember, the Appendice section contains cheatsheets that you can use until the commands, and best practices become a part of your flow.

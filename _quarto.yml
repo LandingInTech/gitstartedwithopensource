@@ -7,9 +7,18 @@ book:
   date: "16/07/2022"
   chapters:
     - index.qmd
+    - preface.qmd
     - intro.qmd
-    - summary.qmd
+    - part: section-git.qmd
+      chapters:
+        - git-basics.qmd
+    - part: section-opensource.qmd
+      chapters:
+        - opensource-basics.qmd
     - references.qmd
+  appendices:
+    - cheatsheet-git.qmd
+    - cheatsheet-pr.qmd
   page-navigation: true
   page-footer:
     border: true

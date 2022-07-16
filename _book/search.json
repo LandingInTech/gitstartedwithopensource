@@ -9,9 +9,9 @@
   {
     "objectID": "intro.html",
     "href": "intro.html",
-    "title": "1  Introduction",
+    "title": "Introduction",
     "section": "",
-    "text": "See Knuth (1984) for additional discussion of literate programming.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+    "text": "The first section is all about Git; what is Git, how do you use it, and what are the most common commands that you will use with Git.\nIf you already know how to use Git and use it regularly, feel free to skip this section. Or don’t; maybe you will learn some new things about how awesome Git is. This section will also contain tips, tricks and curiosities, which should help you better understand this version control tool.\nIn the second section, the book will be all about Open Source. What is Open Source? How do you get started? How to find a project to contribute, the workflow of contributing to a project and much more.\nBy the end of the book, you should have an excellent grasp of Git and be ready to contribute to your first Open Source project. Also, since there are many things to remember, the Appendice section contains cheatsheets that you can use until the commands, and best practices become a part of your flow."
   },
   {
     "objectID": "summary.html",
@@ -26,5 +26,26 @@
     "title": "References",
     "section": "",
     "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "cheatsheet-pr.html",
+    "href": "cheatsheet-pr.html",
+    "title": "Appendix A — Cheatsheet: PR Checklist",
+    "section": "",
+    "text": "…"
+  },
+  {
+    "objectID": "cheatsheet-git.html",
+    "href": "cheatsheet-git.html",
+    "title": "Appendix A — Cheatsheet: Git",
+    "section": "",
+    "text": "…"
+  },
+  {
+    "objectID": "preface.html",
+    "href": "preface.html",
+    "title": "Preface",
+    "section": "",
+    "text": "To learn more about Quarto books visit https://quarto.org/docs/books."
   }
 ]
