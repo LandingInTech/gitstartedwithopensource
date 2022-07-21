@@ -1,5 +1,7 @@
 # Preface {.unnumbered}
 
-This is a Quarto book.
+Contributing to open source always seemed like something that a very experienced software engineer could do. In fact, I thought that it would be impossible to get started and contribute to open source until I had years of experience. The reality is that I was very wrong, and everyone can get started contributing to open source. There are many different ways that you can contribute, each with varying requirements of experience. Your contributions may even one day help you transition to tech and land you a job! It certainly did in my case. All I have achieved in my career is primarily thanks to open source, the contributions and the relationships that I have made.
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+With time I've progressed from contributor to maintainer of open source. I've made many mistakes and learned a lot. Whenever someone contributed to a project that I maintained, I always wanted to help new folks in any way that I could. With time, I've started seeing patterns and frequent questions. This book has been brewing for a long time, and I finally decided to write it. Hopefully, the book will help you understand how to contribute to a project and make quality contributions that will make maintainers eager for more contributions from you.
+
+Finally, in the spirit of open source, the source of this book is available on [github](https://github.com/LandingInTech/gitstartedwithopensource). If you see anything that could be improved, feel free to contribute! Who knows, maybe this could be your first contribution in a lifelong of contributions.

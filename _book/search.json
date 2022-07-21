@@ -46,6 +46,6 @@
     "href": "preface.html",
     "title": "Preface",
     "section": "",
-    "text": "To learn more about Quarto books visit https://quarto.org/docs/books."
+    "text": "With time I’ve progressed from contributor to maintainer of open source. I’ve made many mistakes and learned a lot. Whenever someone contributed to a project that I maintained, I always wanted to help new folks in any way that I could. With time, I’ve started seeing patterns and frequent questions. This book has been brewing for a long time, and I finally decided to write it. Hopefully, the book will help you understand how to contribute to a project and make quality contributions that will make maintainers eager for more contributions from you.\nFinally, in the spirit of open source, the source of this book is available on github. If you see anything that could be improved, feel free to contribute! Who knows, maybe this could be your first contribution in a lifelong of contributions."
   }
 ]
