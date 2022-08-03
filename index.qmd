@@ -1,5 +1,37 @@
 # Welcome {.unnumbered}
 
-This is a Quarto book.
+_This table of contents is still a work in progress and it's likely to change in the future._
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+## Table of contents
+
+- Section: Git
+	- Understanding Git
+	- Git Basics
+		- The only commands you need to get started
+		- Git config (? should it be its own chapter?)
+	- Git Branching
+		- What are branches
+		- Why you should use branches
+	- Git commits
+		- What are they
+		- Why you use them
+		- How to write good commit messages
+	- Git commands
+- Section: Open Source
+	- Open Source Basics
+		- Types of Contribution
+		- Finding a good project to contribute
+	- Looking at issues
+		- Labels
+		- How to find your first issue
+	- Navigating the code base
+	- Writing Tests
+	- Opening a MR/PR
+		- Merging (merge/rebase)
+		- Dealing with conflicts
+	- Dealing with feedback
+
+- Appendice: Cheatsheet: Git
+- Appendice: PR Checklist
+- Appendice: Powering up your Github profile
+- Appendice: Git aliases to make your life easier
